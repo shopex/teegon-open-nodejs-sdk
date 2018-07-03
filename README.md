@@ -13,7 +13,7 @@ npm install teegon
 In your app:
 
 ```
-teegon = require("../lib/teegon")
+teegon = require("teegon/lib/teegon")
 
 client = teegon.Client("http://127.0.0.1:8080/api", "umjj5xj6", "xa4k7gzyemzjkscapdjb");
 
