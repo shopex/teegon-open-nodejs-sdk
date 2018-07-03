@@ -7,7 +7,7 @@ Usage
 In the shell:
 
 ```
-npm install teegon-js
+npm install teegon
 ```
 
 In your app:
